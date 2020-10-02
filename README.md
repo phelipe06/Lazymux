@@ -13,11 +13,10 @@
 [![BlackHole Security](core/gitbhs.svg)](https://github.com/BlackHoleSecurity)
 
 # Lazymux
-Lazymux tools installer is very easy to use, only provided for lazy termux users, just kidding.
-Lazymux is a tool that is specially made for termux user which provides a lot of tool mainly used tools in termux, Lazymux install any of the given tools provided by it from itself with just one click, and Lazymux always get updated.
+O instalador de ferramentas Lazymux é muito fácil de usar, fornecido apenas para usuários termux preguiçosos, brincadeira.
+Lazymux é uma ferramenta feita especialmente para o usuário do termux que fornece muitas ferramentas usadas principalmente no termux, o Lazymux instala qualquer uma das ferramentas fornecidas por ele com apenas um clique, e o Lazymux sempre se atualiza
 
-Made with ❤️
-
+feito com ❤️
 ## Feature
 - **Tool Installation**
 Install Single Tool  
@@ -41,12 +40,12 @@ Example: lazymux.conf
 #### Installation and Using Lazymux
 ```bash
 apt install python git
-git clone https://github.com/Gameye98/Lazymux
+git clone https://github.com/phelipe06/Lazymux/edit/master/README.md
 cd Lazymux
 python lazymux.py
 ```
 
 ### Contact Me
 Facebook: [Gameye98](https://www.facebook.com/100042910716603)  
-Instagram: [@dtlily](https://instagram.com/dtlily)  
+Instagram: [@phellipe_0_1_1](https://instagram.com/phellipe_0_1_1)  
 Telegram : [@dtlily](https://t.me/dtlily) 
