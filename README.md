@@ -44,8 +44,6 @@ git clone https://github.com/phelipe06/Lazymux/edit/master/README.md
 cd Lazymux
 python lazymux.py
 ```
-
 ### Contact Me
 Facebook: [Gameye98](https://www.facebook.com/100042910716603)  
-Instagram: [@phellipe_0_1_1](https://instagram.com/phellipe_0_1_1)  
-Telegram : [@dtlily](https://t.me/dtlily) 
+Instagram: [@phellipe_011](https://instagram.com/phellipe_011)  
